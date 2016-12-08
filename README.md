@@ -1,6 +1,6 @@
 # Q-learning.rb
 
-Implementação de algoritmo para aprendizado por reforço [Q-learning](https://en.wikipedia.org/wiki/Q-learning) para o Pacmaze.
+Implementação de algoritmo para aprendizado por reforço [Q-learning](https://en.wikipedia.org/wiki/Q-learning) para o Pacmaze. No pacmaze, o objetivo é levar o Pac até a pastilha, evitando os fantasmas no caminho.
 
 ## Modelagem
 
